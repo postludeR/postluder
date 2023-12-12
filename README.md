@@ -1,4 +1,4 @@
-<h1 align="Left">Minute to learn, lifetime to master</h1>
+<h2 align="Left">Minute to learn but a lifetime to master</h2>
 <p align="left">My name is John Wang. I am a software developer, electronic enthusiast, and full-time student studying a Bachelor of Information Sciences at Massey University.</p>
 
 - 🔭 My hobbies: **Geeks, Photographing, Politic**
